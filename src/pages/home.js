@@ -8,7 +8,7 @@ import Layout from '../components/Layout'
 data => (
       <Layout>
         <Helmet>
-          <title>home</title>
+          <title>Food Hope</title>
         </Helmet>
         <section className="section thick">
           <div className="container skinny taCenter">
